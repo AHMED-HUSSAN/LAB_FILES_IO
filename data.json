@@ -1,0 +1,28 @@
+{
+    "ToDolist": [
+        {
+            "title": "Go to gym",
+            "time": "8:00",
+            "date": "2025-2-12",
+            "full-time": true
+        },
+        {
+            "title": "visit grandma",
+            "time": "10:00",
+            "date": "2025-2-15",
+            "full-time": false
+        },
+        {
+            "title": "Go to gym",
+            "time": "8:00",
+            "date": "2025-2-12",
+            "full-time": false
+        },
+        {
+            "title": "Visit grandma",
+            "time": "10:00",
+            "date": "2025-2-15",
+            "full-time": false
+        }
+    ]
+}
